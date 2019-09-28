@@ -1,0 +1,9 @@
+@font-face{
+	font-family: "Kohbee heavy";
+	src: url("font/aileron_heavy.otf") format("opentype");
+}
+
+.kohbee{
+	font-family: "Kohbee heavy" !important;
+}
+
